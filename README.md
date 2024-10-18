@@ -1,1 +1,1 @@
-These files are the programs I made with my class teams while learning Python.
+This program uses dictionaries, for loops, while loops, and list manipulation to execute an effective ASCII clock.
