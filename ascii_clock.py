@@ -1,4 +1,4 @@
-#Handles ASCII clock display effectively, giving users the option to choose between 12-hour and 24-hour formats, and allowing them to specify a preferred character for rendering the digits and symbols.
+#Handles ASCII clock display effectively, allowing users to choose between 12-hour and 24-hour formats and specify a preferred character for rendering the digits and symbols.
 
 # ----------------------------------------------------------------------------------------------------------------------------------------------
 #Asking for inputs
